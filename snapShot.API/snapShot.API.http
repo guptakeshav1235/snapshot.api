@@ -1,0 +1,6 @@
+@snapShot.API_HostAddress = http://localhost:5252
+
+GET {{snapShot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
